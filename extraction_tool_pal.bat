@@ -21,7 +21,7 @@ echo Do you have Wiimm's ISO Tools?
 echo ----------------- MENU -----------------
 echo 1) Yes, I have WIT.
 echo 2) No, I don't have WIT.
-echo NOTE: Please do not select any value that isn't 1 or 2. Make sure you have an ISO in the folder that this batchfile in!
+echo NOTE: Please do not select any value that isn't 1 or 2. Make sure you have an ISO in the folder that this batchfile is in!
 set /p input=
 if %input% == 1 goto true
 if %input% == 2 goto false
