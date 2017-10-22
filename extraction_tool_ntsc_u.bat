@@ -16,7 +16,7 @@ echo Welcome to my extraction tool. This tool was made by Person and it uses WIT
 echo This tool requires Wiimm's ISO tools.
 echo If you do not have Wiimm's ISO tools, then you can download it at:
 echo wit.wiimm.de
-echo If you have installed Wiimm's ISO tools, you will need to reboot your computer.
+echo If you have just installed Wiimm's ISO tools, you will need to reboot your computer.
 echo Do you have Wiimm's ISO Tools?
 echo ----------------- MENU -----------------
 echo 1) Yes, I have WIT.
